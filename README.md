@@ -127,6 +127,6 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 
 ### Flowchart Praktikum 5
 
-
+![Gambar WhatsApp 2022-11-20 pukul 21 12 36](https://user-images.githubusercontent.com/115867244/202907083-e47e04a1-78a6-4e86-bba2-c64ae8b4ee04.jpg)
 
 ### Sekian, Terima kasih 
