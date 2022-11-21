@@ -55,8 +55,7 @@ Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 
     print("------------------------------------------")
     # tambah elemen list
-    b = a[0:2] # Mengambil 2 bagian dari list pertama (a) dan jadikan list 
-    kedua (b)
+    b = a[0:2] # Mengambil 2 bagian dari list pertama (a) dan jadikan list kedua (b)
     print(b)
     b.append(45) # Menambah list dengan nilai string
     print(b)
